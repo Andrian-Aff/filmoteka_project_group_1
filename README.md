@@ -9,10 +9,11 @@
 
 ## Developers
 
+- [Andrian Andriiuk](https://github.com/Andrian-Aff)
 - [Serhii Tkachenko](https://www.linkedin.com/in/serhii-tkachenko-28075821b/)
 - [Vitaliy Kikot](https://www.linkedin.com/in/vitaliy-kikot-241618211/)
 - [Olha Shulman](https://www.linkedin.com/in/olga-shulman-48384a173/)
 - [Olha Shopina](https://github.com/OlgaShopina)
 - [Elena Petrus](https://www.linkedin.com/in/elena-petrus-bb9038212/)
 - [Anna Kovalchuk](https://github.com/AnnaKovalski)
-- [Andrian Andriiuk](https://github.com/Andrian-Aff)
+
